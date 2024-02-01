@@ -9,9 +9,10 @@ This Python script demonstrates a text classification pipeline using various mac
 - `pandas`
 - `nltk`
 - `sci-kit-learn`
-- `Transformers`
 - `torch`
 - `matplotlib`
+- `seaborn`
+- `wordcloud`
 
 You can install the required dependencies using pip:
 
