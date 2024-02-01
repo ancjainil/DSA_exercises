@@ -16,7 +16,7 @@ This Python script demonstrates a text classification pipeline using various mac
 
 You can install the required dependencies using pip:
 
-pip install numpy pandas nltk scikit-learn transformers torch matplotlib
+pip install numpy pandas nltk scikit-learn  matplotlib
 
 
 
