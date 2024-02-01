@@ -50,14 +50,12 @@ This Python script performs text classification using various machine learning a
 ## Features
 - **Text Preprocessing**: Tokenization, stop word removal, stemming, and lemmatization are performed to prepare text data for classification.
 - **Feature Extraction**: TF-IDF vectorization converts text data into numerical features.
-- **Classification Algorithms**: Evaluates performance of various classifiers including Naive Bayes, Logistic Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, and KNN.
+- **Classification Algorithms**: Evaluate the performance of various classifiers including Naive Bayes, Logistic Regression, SVM, Decision Trees, Random Forest, Gradient Boosting, and KNN.
 - **Bias-Variance Analysis**: Calculates and visualizes bias and variance of each classifier to analyze performance.
 - **Subset Results**: Prints subset results for comparison between true and predicted labels.
 
 ## Usage
-1. Clone the repository or download the Python script.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the script using `python gutenberg_classifier.py`.
+1. Open this file in any notebook software such as google collab.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
